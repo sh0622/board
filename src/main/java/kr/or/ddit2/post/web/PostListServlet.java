@@ -19,7 +19,6 @@ import kr.or.ddit2.board.service.BoardServiceInf;
 import kr.or.ddit2.post.model.PostVo;
 import kr.or.ddit2.post.service.PostService;
 import kr.or.ddit2.post.service.PostServiceInf;
-import kr.or.ddit2.student.model.StudentVo;
 
 /**
  * Servlet implementation class PostListServlet

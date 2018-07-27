@@ -2,8 +2,6 @@ package kr.or.ddit2.post.web;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.UUID;
 
 import javax.servlet.ServletException;
@@ -20,7 +18,6 @@ import kr.or.ddit2.board.service.BoardService;
 import kr.or.ddit2.board.service.BoardServiceInf;
 import kr.or.ddit2.file.model.FileVo;
 import kr.or.ddit2.file.service.FileTableService;
-import kr.or.ddit2.file.service.FileTableServiceTest;
 import kr.or.ddit2.file.service.FileTableServiceInf;
 import kr.or.ddit2.file.web.FileUtil;
 import kr.or.ddit2.post.model.PostVo;

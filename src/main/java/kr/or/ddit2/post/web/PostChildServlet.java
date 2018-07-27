@@ -14,7 +14,6 @@ import javax.servlet.http.Part;
 
 import kr.or.ddit2.file.model.FileVo;
 import kr.or.ddit2.file.service.FileTableService;
-import kr.or.ddit2.file.service.FileTableServiceTest;
 import kr.or.ddit2.file.service.FileTableServiceInf;
 import kr.or.ddit2.file.web.FileUtil;
 import kr.or.ddit2.post.model.PostVo;

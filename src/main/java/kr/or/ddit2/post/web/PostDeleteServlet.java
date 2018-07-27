@@ -1,19 +1,16 @@
 package kr.or.ddit2.post.web;
 
 import java.io.IOException;
-import java.util.List;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
 
 import kr.or.ddit2.post.model.PostVo;
 import kr.or.ddit2.post.service.PostService;
 import kr.or.ddit2.post.service.PostServiceInf;
-import kr.or.ddit2.student.model.StudentVo;
 
 /**
  * Servlet implementation class PostDeleteServlet
